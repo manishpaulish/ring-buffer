@@ -1,0 +1,5 @@
+run_tests
+run_bench
+*.o
+*.out
+.DS_Store
