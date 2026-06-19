@@ -124,7 +124,6 @@ Throughput:    32.6 M msg/s
 Latency / msg: 30.7 ns
 ```
 
-(Run `./run_bench` and paste your numbers here.)
 
 ---
 
